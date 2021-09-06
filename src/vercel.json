@@ -13,7 +13,10 @@
         "MONGO_USERNAME": "pran",
         "MONGO_PASSWORD": "pran",
         "MONGO_DATABASE": "yaalopran",
-        "MONGO_URI": "cluster0.tyirg.mongodb.net"
+        "MONGO_URI": "cluster0.tyirg.mongodb.net",
+        "GCS_KEY_NAME": "google-4e750-009127b84e55.json",
+        "GCS_BUCKET": "staging.mithilaride-4e750.appspot.com",
+        "GCS_PROJECTID": "mithilaride-4e750"
     },
 
     "routes": [
