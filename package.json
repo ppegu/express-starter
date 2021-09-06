@@ -1,0 +1,22 @@
+{
+  "name": "yallo",
+  "version": "1.0.0",
+  "description": "Movie streaming app ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ppegu/yaalobackend.git"
+  },
+  "keywords": [
+    "yaalo"
+  ],
+  "author": "Pran Pegu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ppegu/yaalobackend/issues"
+  },
+  "homepage": "https://gitlab.com/ppegu/yaalobackend#readme"
+}
