@@ -6,10 +6,8 @@ const OPTIONS = {
     useNewUrlParser: true,
     socketTimeoutMS: 30000,
     keepAlive: true,
-    poolSize: 50,
     autoIndex: false,
     retryWrites: false,
-    useFindAndModify: true,
 }
 
 const mongoUri = `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@${process.env.MONGO_URI}/${process.env.MONGO_DATABASE}`

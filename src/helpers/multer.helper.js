@@ -1,6 +1,6 @@
 const multer = require("multer")
 var multerGoogleStorage = require("multer-cloud-storage");
-const { GCS_KEY } = require("../constants")
+const { GCS_KEY, GCS_BUCKET, GCS_PROJECTID } = require("../constants")
 const shortid = require("shortid")
 const mime = require("mime-types")
 
