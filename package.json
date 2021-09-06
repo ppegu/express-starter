@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://gitlab.com/ppegu/yaalobackend/issues"
   },
-  "homepage": "https://gitlab.com/ppegu/yaalobackend#readme"
+  "homepage": "https://gitlab.com/ppegu/yaalobackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mime-types": "^2.1.32",
+    "mongoose": "^6.0.4",
+    "mongoose-delete": "^0.5.4",
+    "mongoose-paginate-v2": "^1.4.2",
+    "mongoose-simple-random": "^0.4.1",
+    "morgan": "^1.10.0"
+  }
 }
